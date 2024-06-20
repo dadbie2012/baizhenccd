@@ -1,0 +1,90 @@
+double time_1 = 0;
+LARGE_INTEGER nFreq;
+LARGE_INTEGER nBeginTime;
+LARGE_INTEGER nEndTime;
+QueryPerformanceFrequency(&nFreq);
+QueryPerformanceCounter(&nBeginTime);
+QueryPerformanceCounter(&nEndTime);//停止计时
+time_1 = (double)(nEndTime.QuadPart - nBeginTime.QuadPart) / (double)nFreq.QuadPart;//计算程序执行时间单位为s*/
+cout << "The run time is:" << time_1 * 1000 << "ms" << endl;
+
+//zhengshi
+INCLUDEPATH += \
+               D:\opencv4.5.0\opencv\build\include\opencv2\
+               D:\opencv4.5.0\opencv\build\include\
+               D:\Daheng Imaging\GalaxySDK\APIDll\Win64
+
+
+LIBS += \
+              D:\opencv4.5.0\opencv\build\x64\vc15\lib\opencv_world450.lib\
+              D:\opencv4.5.0\opencv\build\x64\vc15\lib\opencv_world450d.lib\
+              D:\opencv4.5.0\opencv\build\x64\vc15\lib\high_shape_match.lib
+
+
+
+
+
+
+
+
+unix|win32: LIBS += -L'D:/Daheng Imaging/GalaxySDK/Samples/C++ SDK/lib/x64/' -lGxIAPICPPEx
+
+INCLUDEPATH += 'D:/Daheng Imaging/GalaxySDK/Samples/C++ SDK/lib/x64/'
+DEPENDPATH += 'D:/Daheng Imaging/GalaxySDK/Samples/C++ SDK/lib/x64/'
+
+INCLUDEPATH += 'D:/Daheng Imaging/GalaxySDK/Samples/C++ SDK/inc'
+DEPENDPATH += 'D:/Daheng Imaging/GalaxySDK/Samples/C++ SDK/inc'
+
+//gongkong
+INCLUDEPATH += \
+               D:\opencv\opencv4.5.0\opencv\build\include\opencv2\
+               D:\opencv\opencv4.5.0\opencv\build\include\
+               D:\Program Files\Daheng Imaging\GalaxySDK\APIDll\Win64
+
+
+LIBS += \
+              D:\opencv\opencv4.5.0\opencv\build\x64\vc15\lib\opencv_world450.lib\
+              D:\opencv\opencv4.5.0\opencv\build\x64\vc15\lib\opencv_world450d.lib\
+              D:\opencv\opencv4.5.0\opencv\build\x64\vc15\lib\high_shape_match.lib
+
+
+
+
+
+
+
+
+unix|win32: LIBS += -L'D:/Program Files/Daheng Imaging/GalaxySDK/Samples/C++ SDK/lib/x64/' -lGxIAPICPPEx
+
+INCLUDEPATH += 'D:/Program Files/Daheng Imaging/GalaxySDK/Samples/C++ SDK/lib/x64/'
+DEPENDPATH += 'D:/Program Files/Daheng Imaging/GalaxySDK/Samples/C++ SDK/lib/x64/'
+
+INCLUDEPATH += 'D:/Program Files/Daheng Imaging/GalaxySDK/Samples/C++ SDK/inc'
+DEPENDPATH += 'D:/Program Files/Daheng Imaging/GalaxySDK/Samples/C++ SDK/inc'
+
+
+ziji
+INCLUDEPATH += \
+               D:\opencv4.5.0\opencv\build\include\opencv2 \
+               D:\opencv4.5.0\opencv\build\include\
+               D:\GalaxySDK\APIDll\Win64
+
+LIBS += \
+              D:\opencv4.5.0\opencv\build\x64\vc15\lib\opencv_world450.lib\
+              D:\opencv4.5.0\opencv\build\x64\vc15\lib\opencv_world450d.lib\
+              D:\opencv4.5.0\opencv\build\x64\vc15\lib\high_shape_match.lib
+
+
+
+unix|win32: LIBS += -L'D:/GalaxySDK/Samples/C++ SDK/lib/x64/' -lGxIAPICPPEx
+
+INCLUDEPATH += 'D:/GalaxySDK/Samples/C++ SDK/lib/x64'
+DEPENDPATH += 'D:/GalaxySDK/Samples/C++ SDK/lib/x64'
+
+INCLUDEPATH += 'D:/GalaxySDK/Samples/C++ SDK/inc'
+DEPENDPATH += 'D:/GalaxySDK/Samples/C++ SDK/inc'
+
+
+
+
+

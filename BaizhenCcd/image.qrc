@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/camera.png</file>
+        <file>image/saveimage.png</file>
+        <file>image/software.png</file>
+        <file>image/start.png</file>
+        <file>image/stop.png</file>
+        <file>image/canshu.png</file>
+        <file>image/celiang.png</file>
+        <file>image/shezhi.png</file>
+        <file>image/tongxin.png</file>
+        <file>image/light1.png</file>
+        <file>image/light2.png</file>
+        <file>image/tubiao.png</file>
+        <file>image/apple.png</file>
+        <file>image/caomei.png</file>
+        <file>image/lizi.png</file>
+        <file>image/camera_open.png</file>
+        <file>image/pStart.png</file>
+        <file>image/autofocus.png</file>
+        <file>image/motioncontrol.png</file>
+        <file>image/qa.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/caomei.png</file>
+    </qresource>
+</RCC>

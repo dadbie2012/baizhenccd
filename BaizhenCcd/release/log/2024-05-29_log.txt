@@ -1,0 +1,83 @@
+(2024-05-29 08:45:37 499)  camera_1 detection successful
+(2024-05-29 08:45:37 499)  dx: 1.65003 dy: 0.184383 angle: 18.3313 score: 0.982804
+(2024-05-29 09:23:26 683)  Pogopin stop!!!
+(2024-05-29 09:43:55 974)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 113,174,70'
+(2024-05-29 09:43:56 052)  Pogopin start!!!
+(2024-05-29 09:43:56 778)  "Camera successfully connected--serial number:1"
+(2024-05-29 09:43:57 869)  "Camera successfully connected--serial number:2"
+(2024-05-29 09:43:59 067)  "Camera successfully connected--serial number:3"
+(2024-05-29 09:44:00 264)  "Camera successfully connected--serial number:4"
+(2024-05-29 09:44:01 465)  "Camera successfully connected--serial number:5"
+(2024-05-29 09:44:01 595)  轴数量: 0
+(2024-05-29 09:44:02 428)  轴数量: 2
+(2024-05-29 09:44:02 632)  已打开轴数: 1
+(2024-05-29 09:44:02 734)  已打开轴数: 2
+(2024-05-29 09:44:07 025)  Pogopin stop!!!
+(2024-05-29 09:44:14 192)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 113,174,70'
+(2024-05-29 09:44:14 267)  Pogopin start!!!
+(2024-05-29 09:44:14 981)  "Camera successfully connected--serial number:1"
+(2024-05-29 09:44:16 068)  "Camera successfully connected--serial number:2"
+(2024-05-29 09:44:17 265)  "Camera successfully connected--serial number:3"
+(2024-05-29 09:44:18 459)  "Camera successfully connected--serial number:4"
+(2024-05-29 09:44:19 654)  "Camera successfully connected--serial number:5"
+(2024-05-29 09:44:19 786)  轴数量: 0
+(2024-05-29 09:44:20 609)  轴数量: 2
+(2024-05-29 09:44:20 813)  已打开轴数: 1
+(2024-05-29 09:44:20 914)  已打开轴数: 2
+(2024-05-29 09:44:27 882)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 56,203,125'
+(2024-05-29 09:45:23 549)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 113,174,70'
+(2024-05-29 09:45:23 627)  Pogopin start!!!
+(2024-05-29 09:45:24 357)  "Camera successfully connected--serial number:1"
+(2024-05-29 09:45:25 443)  "Camera successfully connected--serial number:2"
+(2024-05-29 09:45:26 640)  "Camera successfully connected--serial number:3"
+(2024-05-29 09:45:27 832)  "Camera successfully connected--serial number:4"
+(2024-05-29 09:45:29 028)  "Camera successfully connected--serial number:5"
+(2024-05-29 09:45:29 158)  轴数量: 0
+(2024-05-29 09:45:29 991)  轴数量: 2
+(2024-05-29 09:45:30 194)  已打开轴数: 1
+(2024-05-29 09:45:30 296)  已打开轴数: 2
+(2024-05-29 09:45:31 132)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 56,203,125'
+(2024-05-29 09:45:37 445)  "::ffff:192.168.0.11" ????????!
+(2024-05-29 09:51:15 999)  Pogopin stop!!!
+(2024-05-29 09:51:28 562)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 113,174,70'
+(2024-05-29 09:51:28 637)  Pogopin start!!!
+(2024-05-29 09:51:29 401)  "Camera successfully connected--serial number:1"
+(2024-05-29 09:51:30 486)  "Camera successfully connected--serial number:2"
+(2024-05-29 09:51:31 681)  "Camera successfully connected--serial number:3"
+(2024-05-29 09:51:32 877)  "Camera successfully connected--serial number:4"
+(2024-05-29 09:51:34 072)  "Camera successfully connected--serial number:5"
+(2024-05-29 09:51:34 203)  轴数量: 0
+(2024-05-29 09:51:35 030)  轴数量: 2
+(2024-05-29 09:51:35 233)  已打开轴数: 1
+(2024-05-29 09:51:35 335)  已打开轴数: 2
+(2024-05-29 09:51:38 288)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 56,203,125'
+(2024-05-29 09:51:52 280)  "::ffff:192.168.0.11" ????????!
+(2024-05-29 09:54:20 143)  Pogopin stop!!!
+(2024-05-29 09:54:29 393)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 113,174,70'
+(2024-05-29 09:54:29 472)  Pogopin start!!!
+(2024-05-29 09:54:30 256)  "Camera successfully connected--serial number:1"
+(2024-05-29 09:54:31 346)  "Camera successfully connected--serial number:2"
+(2024-05-29 09:54:32 540)  "Camera successfully connected--serial number:3"
+(2024-05-29 09:54:33 736)  "Camera successfully connected--serial number:4"
+(2024-05-29 09:54:34 933)  "Camera successfully connected--serial number:5"
+(2024-05-29 09:54:35 063)  轴数量: 0
+(2024-05-29 09:54:35 888)  轴数量: 2
+(2024-05-29 09:54:36 091)  已打开轴数: 1
+(2024-05-29 09:54:36 191)  已打开轴数: 2
+(2024-05-29 09:54:45 693)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 56,203,125'
+(2024-05-29 09:54:51 285)  "::ffff:192.168.0.11" ????????!
+(2024-05-29 09:57:34 295)  Pogopin stop!!!
+(2024-05-29 09:57:43 190)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 113,174,70'
+(2024-05-29 09:57:43 268)  Pogopin start!!!
+(2024-05-29 09:57:43 954)  "Camera successfully connected--serial number:1"
+(2024-05-29 09:57:45 041)  "Camera successfully connected--serial number:2"
+(2024-05-29 09:57:46 238)  "Camera successfully connected--serial number:3"
+(2024-05-29 09:57:47 431)  "Camera successfully connected--serial number:4"
+(2024-05-29 09:57:48 624)  "Camera successfully connected--serial number:5"
+(2024-05-29 09:57:48 755)  轴数量: 0
+(2024-05-29 09:57:49 575)  轴数量: 2
+(2024-05-29 09:57:49 779)  已打开轴数: 1
+(2024-05-29 09:57:49 880)  已打开轴数: 2
+(2024-05-29 09:57:50 303)  QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 56,203,125'
+(2024-05-29 09:59:02 585)  "::ffff:192.168.0.11" ????????!
+(2024-05-29 10:00:15 391)  "::ffff:192.168.0.11" ????????!
